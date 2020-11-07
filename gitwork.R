@@ -1,6 +1,3 @@
-####################
-##### Midterm ######
-####################
 
 library(tidyverse)
 library(dplyr)
